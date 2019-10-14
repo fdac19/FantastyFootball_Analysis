@@ -1,4 +1,4 @@
-# FantastyFootball Analysis
+# FantasyFootball Analysis
 
 **Team Members: Trey Winters, Tucker Wheaton, Tony Nguyen, Andrew Poole**
 
