@@ -15,4 +15,4 @@ The Project revolves around finding "sleeper" players and finding out trends on 
 - [Sportsreference API](https://sportsreference.readthedocs.io/en/stable/nfl.html)
 - [NFL Players List](https://www.pro-football-reference.com)
 - [Top Sleepers of 2019 so far](https://www.espn.com/fantasy/football/story/_/page/imagined070119/fantasy-football-sleepers-busts-breakouts-2019)
-
+- [Top Sleepers of 2018](https://www.espn.com/fantasy/football/story/_/page/imagined/fantasy-football-sleepers-busts-breakouts-2018)
