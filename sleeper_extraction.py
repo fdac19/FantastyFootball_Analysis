@@ -3,6 +3,7 @@ from sportsreference.nfl.roster import Player
 from collections import defaultdict
 import pprint
 import sys
+import json
 
 sleepers_2019 = defaultdict(list) # dictionary with value as lists
 sleepers_2018 = defaultdict(list) 
@@ -19,6 +20,8 @@ for file in sys.argv[1:]:
                 key,value = line.strip().split(': ')
                 sleepers_2019[key].append(value)
             pp.pprint(sleepers_2019)
+            with open('sleepers2019.json', 'w') as f:
+                json.dump(sleepers_2019, f, indent=4)
         elif file == "SleeperList_2018.txt":
             for line in sleepers:
                 key,value = line.strip().split(': ')
