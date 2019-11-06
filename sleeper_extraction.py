@@ -1,5 +1,5 @@
-#from sportsreference.nfl.boxscore import Boxscore
-#from sportsreference.nfl.roster import Player
+from sportsreference.nfl.boxscore import Boxscore
+from sportsreference.nfl.roster import Player
 from collections import defaultdict
 import pprint
 import sys
