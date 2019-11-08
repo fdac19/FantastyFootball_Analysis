@@ -1,1334 +1,1904 @@
 {
     "players": [
         {
-            "week": 8,
-            "postion": 20,
-            "name": "Alvin Kamara",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 23,
-            "name": "Mike Evans",
-            "projected points": 13.320196924500001,
-            "actual points": 38.3
-        },
-        {
-            "week": 8,
-            "postion": 6,
-            "name": "Zach Ertz",
-            "projected points": 10.089375674000001,
-            "actual points": 3.0
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Tyler Lockett",
-            "projected points": 12.179930207199998,
-            "actual points": 14.0
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "David Montgomery",
-            "projected points": 10.651063586000005,
-            "actual points": 23.7
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Miles Sanders",
-            "projected points": 7.6622247085,
-            "actual points": 21.3
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Robby Anderson",
-            "projected points": 9.016718894699999,
-            "actual points": 6.3
-        },
-        {
-            "week": 8,
-            "postion": 17,
-            "name": "Matt Bryant",
-            "projected points": 5.947573145,
-            "actual points": 5.0
-        },
-        {
-            "week": 8,
-            "postion": 0,
-            "name": "Josh Allen",
-            "projected points": 25.043940995,
-            "actual points": 20.950000000000003
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Alshon Jeffery",
-            "projected points": 10.383796052000001,
-            "actual points": 8.4
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Darwin Thompson",
-            "projected points": 0.0,
-            "actual points": 0.4
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Wayne Gallman",
-            "projected points": 1.9077321416000002,
-            "actual points": 2.5
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Diontae Johnson",
-            "projected points": 7.8787298235,
-            "actual points": 16.9
-        },
-        {
-            "week": 8,
-            "postion": 16,
-            "name": "Saints D/ST",
-            "projected points": 7.454587014,
-            "actual points": 9.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "DeVante Parker",
-            "projected points": 7.937483739,
-            "actual points": 8.9
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Julio Jones",
-            "projected points": 13.457924325299999,
-            "actual points": 21.200000000000003
-        },
-        {
-            "week": 8,
-            "postion": 23,
-            "name": "JuJu Smith-Schuster",
-            "projected points": 10.6826662925,
-            "actual points": 19.8
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Derrick Henry",
-            "projected points": 15.459806816,
-            "actual points": 6.8
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Damien Williams",
-            "projected points": 7.481283533999999,
-            "actual points": 9.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "DJ Moore",
-            "projected points": 10.1478699351,
-            "actual points": 6.300000000000001
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Phillip Lindsay",
-            "projected points": 11.770841437,
-            "actual points": 10.100000000000001
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Dede Westbrook",
-            "projected points": 9.8654684643,
-            "actual points": -1.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Royce Freeman",
-            "projected points": 10.379309617000002,
-            "actual points": 11.0
-        },
-        {
-            "week": 8,
-            "postion": 0,
-            "name": "Russell Wilson",
-            "projected points": 28.932443736000003,
-            "actual points": 21.5
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Mark Andrews",
-            "projected points": 0.0,
-            "actual points": null
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "John Brown",
-            "projected points": 11.1724459987,
-            "actual points": 7.9
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Devin Singletary",
-            "projected points": 7.723320733,
-            "actual points": 12.9
-        },
-        {
-            "week": 8,
-            "postion": 16,
-            "name": "Seahawks D/ST",
-            "projected points": 5.293946770000001,
-            "actual points": 2.0
-        },
-        {
-            "week": 8,
-            "postion": 17,
-            "name": "Josh Lambo",
-            "projected points": 9.310338042,
-            "actual points": 10.0
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Ty Johnson",
-            "projected points": 11.823867981499998,
-            "actual points": 4.3
-        },
-        {
-            "week": 8,
-            "postion": 6,
-            "name": "Kyle Rudolph",
-            "projected points": 6.1348874045,
-            "actual points": 3.2
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "David Johnson",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Joe Mixon",
-            "projected points": 11.768168942,
-            "actual points": 15.700000000000001
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Adam Thielen",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Cooper Kupp",
-            "projected points": 12.106650215799998,
-            "actual points": 32.5
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Mark Ingram II",
-            "projected points": 0.0,
-            "actual points": null
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Jarvis Landry",
-            "projected points": 9.320280416400001,
-            "actual points": 9.0
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Marvin Jones Jr.",
-            "projected points": 11.4909049691,
-            "actual points": 4.2
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Rashaad Penny",
-            "projected points": 6.056334183000001,
-            "actual points": 5.5
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Cam Newton",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 6,
-            "name": "Austin Hooper",
-            "projected points": 10.2854346905,
-            "actual points": 15.5
-        },
-        {
-            "week": 8,
-            "postion": 0,
-            "name": "Tom Brady",
-            "projected points": 23.4193587012,
-            "actual points": 24.950000000000003
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Justin Tucker",
-            "projected points": 0.0,
-            "actual points": null
-        },
-        {
-            "week": 8,
-            "postion": 16,
-            "name": "Vikings D/ST",
-            "projected points": 6.269474110999999,
-            "actual points": 14.0
-        },
-        {
-            "week": 8,
-            "postion": 23,
-            "name": "Darren Waller",
-            "projected points": 12.808347437,
-            "actual points": 8.1
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Frank Gore",
-            "projected points": 9.525398584,
-            "actual points": 3.4000000000000004
-        },
-        {
-            "week": 8,
-            "postion": 17,
-            "name": "Robbie Gould",
-            "projected points": 9.303634011,
-            "actual points": 9.0
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "DeAndre Hopkins",
-            "projected points": 14.7585330545,
-            "actual points": 17.4
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "James Conner",
-            "projected points": 17.653005823,
-            "actual points": 23.5
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Chris Carson",
-            "projected points": 18.257679554,
-            "actual points": 15.0
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Robert Woods",
-            "projected points": 9.859593393599999,
-            "actual points": 5.2
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Tarik Cohen",
-            "projected points": 9.644740579500002,
-            "actual points": 6.1
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Christian Kirk",
-            "projected points": 9.352956427999999,
-            "actual points": 13.8
-        },
-        {
-            "week": 8,
-            "postion": 23,
-            "name": "Jordan Howard",
-            "projected points": 9.972297559100003,
-            "actual points": 17.6
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Tyrell Williams",
-            "projected points": 11.660127355500002,
-            "actual points": 16.6
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Kirk Cousins",
-            "projected points": 21.143711509299997,
-            "actual points": 14.45
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Ronald Jones II",
-            "projected points": 7.2186511564,
-            "actual points": 5.7
-        },
-        {
-            "week": 8,
-            "postion": 16,
-            "name": "Chargers D/ST",
-            "projected points": 5.741050706,
-            "actual points": 7.0
-        },
-        {
-            "week": 8,
-            "postion": 17,
-            "name": "Jake Elliott",
-            "projected points": 5.294551856,
-            "actual points": 3.0
-        },
-        {
-            "week": 8,
-            "postion": 0,
-            "name": "Teddy Bridgewater",
-            "projected points": 0.19655104679,
-            "actual points": -0.2
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Randall Cobb",
-            "projected points": 0.0,
-            "actual points": null
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Jared Cook",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 6,
-            "name": "Dallas Goedert",
-            "projected points": 6.541145236500001,
-            "actual points": 9.7
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Todd Gurley II",
-            "projected points": 16.442100981000003,
-            "actual points": 10.4
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Dalvin Cook",
-            "projected points": 22.039598166,
-            "actual points": 25.6
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Julian Edelman",
-            "projected points": 12.484608900500001,
-            "actual points": 23.5
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Patrick Mahomes",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "A.J. Green",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "David Njoku",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Sterling Shepard",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Corey Davis",
-            "projected points": 9.906731931499998,
-            "actual points": 1.9
-        },
-        {
-            "week": 8,
-            "postion": 23,
-            "name": "Matt Breida",
-            "projected points": 9.837101726000002,
-            "actual points": 5.5
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "DK Metcalf",
-            "projected points": 9.037525325499999,
-            "actual points": 14.8
-        },
-        {
-            "week": 8,
-            "postion": 16,
-            "name": "Bears D/ST",
-            "projected points": 6.606791969999999,
-            "actual points": 6.0
-        },
-        {
-            "week": 8,
-            "postion": 0,
-            "name": "Mitchell Trubisky",
-            "projected points": 19.585245253000004,
-            "actual points": 9.65
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Jalen Richard",
-            "projected points": 3.6953908102000006,
-            "actual points": 3.7
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Paul Richardson Jr.",
-            "projected points": 5.5938166276,
-            "actual points": 4.9
-        },
-        {
-            "week": 8,
-            "postion": 6,
-            "name": "Jimmy Graham",
-            "projected points": 7.796259072500001,
-            "actual points": 3.5
-        },
-        {
-            "week": 8,
-            "postion": 17,
-            "name": "Chris Boswell",
-            "projected points": 7.558923104,
-            "actual points": 10.0
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Le'Veon Bell",
-            "projected points": 14.651418921,
-            "actual points": 5.0
-        },
-        {
-            "week": 8,
-            "postion": 23,
-            "name": "Tyreek Hill",
-            "projected points": 12.737748027599999,
-            "actual points": 11.100000000000001
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "T.Y. Hilton",
-            "projected points": 11.485277739999999,
-            "actual points": 6.4
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Marlon Mack",
-            "projected points": 13.623970095499999,
-            "actual points": 15.500000000000002
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Allen Robinson II",
-            "projected points": 10.902661265499999,
-            "actual points": 8.7
-        },
-        {
-            "week": 8,
-            "postion": 6,
-            "name": "Hunter Henry",
-            "projected points": 10.922505245500002,
-            "actual points": 6.7
-        },
-        {
-            "week": 8,
-            "postion": 0,
-            "name": "Carson Wentz",
-            "projected points": 19.534007688,
-            "actual points": 17.1
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Will Fuller V",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Nyheim Hines",
-            "projected points": 5.2990256085,
-            "actual points": 6.1000000000000005
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Kenny Stills",
-            "projected points": 10.379797771499998,
-            "actual points": 3.7
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "DeSean Jackson",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Mohamed Sanu",
-            "projected points": 8.695274369300002,
-            "actual points": 3.3000000000000003
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Trey Burton",
-            "projected points": 4.442351387,
-            "actual points": 2.1
-        },
-        {
-            "week": 8,
-            "postion": 16,
-            "name": "Titans D/ST",
-            "projected points": 7.679589566,
-            "actual points": 10.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Nelson Agholor",
-            "projected points": 6.892485956400001,
-            "actual points": 3.4000000000000004
-        },
-        {
-            "week": 8,
-            "postion": 17,
-            "name": "Zane Gonzalez",
-            "projected points": 6.897326648,
-            "actual points": 11.0
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Ezekiel Elliott",
-            "projected points": 0.0,
-            "actual points": null
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Amari Cooper",
-            "projected points": 0.0,
-            "actual points": null
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Kerryon Johnson",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Kenny Golladay",
-            "projected points": 13.226803043499999,
-            "actual points": 26.3
-        },
-        {
-            "week": 8,
-            "postion": 6,
-            "name": "O.J. Howard",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 23,
-            "name": "Josh Gordon",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 0,
-            "name": "Aaron Rodgers",
-            "projected points": 25.331236345,
-            "actual points": 36.15
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Keke Coutee",
-            "projected points": 8.032427727600002,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Latavius Murray",
-            "projected points": 17.663963174499997,
-            "actual points": 33.2
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Dak Prescott",
-            "projected points": 0.0,
-            "actual points": null
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Delanie Walker",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 16,
-            "name": "Rams D/ST",
-            "projected points": 8.509132531999999,
-            "actual points": 5.0
-        },
-        {
-            "week": 8,
-            "postion": 17,
-            "name": "Ka'imi Fairbairn",
-            "projected points": 6.810176679,
-            "actual points": 10.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Chris Conley",
-            "projected points": 7.2362101035,
-            "actual points": 19.3
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Marquise Brown",
-            "projected points": 0.0,
-            "actual points": null
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Jack Doyle",
-            "projected points": 5.0271528845,
-            "actual points": 7.1000000000000005
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Christian McCaffrey",
-            "projected points": 20.5652557755,
-            "actual points": 26.500000000000004
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Keenan Allen",
-            "projected points": 8.832808175500002,
-            "actual points": 8.8
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Devonta Freeman",
-            "projected points": 13.540696644000002,
-            "actual points": 12.200000000000001
-        },
-        {
-            "week": 8,
-            "postion": 6,
-            "name": "Evan Engram",
-            "projected points": 11.038058688900001,
-            "actual points": 12.0
-        },
-        {
-            "week": 8,
-            "postion": 23,
-            "name": "Sammy Watkins",
-            "projected points": 7.534758554,
-            "actual points": 7.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Baker Mayfield",
-            "projected points": 16.0370593039,
-            "actual points": 15.5
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Peyton Barber",
-            "projected points": 7.078590904600001,
-            "actual points": 3.3
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Michael Gallup",
-            "projected points": 0.0,
-            "actual points": null
-        },
-        {
-            "week": 8,
-            "postion": 0,
-            "name": "Jared Goff",
-            "projected points": 21.831651594600004,
-            "actual points": 30.6
-        },
-        {
-            "week": 8,
-            "postion": 16,
-            "name": "Jaguars D/ST",
-            "projected points": 8.023870708,
-            "actual points": 18.0
-        },
-        {
-            "week": 8,
-            "postion": 17,
-            "name": "Wil Lutz",
-            "projected points": 8.65438532,
-            "actual points": 6.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Greg Olsen",
-            "projected points": 7.470769943500001,
-            "actual points": 2.3
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "DJ Chark Jr.",
-            "projected points": 10.8057052318,
-            "actual points": 16.9
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Byron Pringle",
-            "projected points": 1.3393188944,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Chase Edmonds",
-            "projected points": 13.261523256999999,
-            "actual points": 2.3
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Panthers D/ST",
-            "projected points": 6.308186576000001,
-            "actual points": 1.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Davante Adams",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Nick Chubb",
-            "projected points": 15.0826093595,
-            "actual points": 11.3
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Aaron Jones",
-            "projected points": 15.7584731995,
-            "actual points": 39.1
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Brandin Cooks",
-            "projected points": 10.249754737,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Tyler Boyd",
-            "projected points": 11.6651428646,
-            "actual points": 9.8
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Kenyan Drake",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Curtis Samuel",
-            "projected points": 9.273449496700003,
-            "actual points": 6.6000000000000005
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "LeSean McCoy",
-            "projected points": 11.070418453499999,
-            "actual points": 6.300000000000001
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Lamar Jackson",
-            "projected points": 0.0,
-            "actual points": null
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Adrian Peterson",
-            "projected points": 10.716605628,
-            "actual points": 11.3
-        },
-        {
-            "week": 8,
-            "postion": 17,
-            "name": "Mason Crosby",
-            "projected points": 6.500995666000001,
-            "actual points": 7.0
-        },
-        {
-            "week": 8,
-            "postion": 23,
-            "name": "Carlos Hyde",
-            "projected points": 12.455334288300003,
-            "actual points": 7.300000000000001
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Jamaal Williams",
-            "projected points": 9.625966208000001,
-            "actual points": 17.099999999999998
-        },
-        {
-            "week": 8,
-            "postion": 16,
-            "name": "Bills D/ST",
-            "projected points": 7.580093406,
-            "actual points": 4.0
-        },
-        {
-            "week": 8,
-            "postion": 6,
-            "name": "Dawson Knox",
-            "projected points": 5.356264073499999,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 0,
-            "name": "Jameis Winston",
-            "projected points": 23.627949712000003,
-            "actual points": 25.35
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Saquon Barkley",
-            "projected points": 17.8420827095,
-            "actual points": 24.299999999999997
-        },
-        {
-            "week": 8,
-            "postion": 6,
-            "name": "George Kittle",
-            "projected points": 11.799213021700002,
-            "actual points": 11.6
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Leonard Fournette",
-            "projected points": 18.157805481500002,
-            "actual points": 17.1
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Chris Godwin",
-            "projected points": 14.898376768,
-            "actual points": 8.3
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Mike Williams",
-            "projected points": 9.5363344187,
-            "actual points": 8.4
-        },
-        {
-            "week": 8,
-            "postion": 0,
-            "name": "Deshaun Watson",
-            "projected points": 28.654370524000004,
-            "actual points": 36.550000000000004
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Emmanuel Sanders",
-            "projected points": 9.344852313999999,
-            "actual points": 10.5
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Golden Tate",
-            "projected points": 10.671568853800002,
-            "actual points": 12.5
-        },
-        {
-            "week": 8,
-            "postion": 17,
-            "name": "Harrison Butker",
-            "projected points": 5.912764847000001,
-            "actual points": 5.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Mecole Hardman",
-            "projected points": 2.5613570058999997,
-            "actual points": 12.5
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Demarcus Robinson",
-            "projected points": 3.5582928705000003,
-            "actual points": 1.6
-        },
-        {
-            "week": 8,
-            "postion": 16,
-            "name": "Packers D/ST",
-            "projected points": 6.037661304,
-            "actual points": 4.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Jason Witten",
-            "projected points": 0.0,
-            "actual points": null
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Auden Tate",
-            "projected points": 8.253095549500001,
-            "actual points": 9.0
-        },
-        {
-            "week": 8,
-            "postion": 23,
-            "name": "A.J. Brown",
-            "projected points": 8.650287895000002,
-            "actual points": 8.1
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Michael Thomas",
-            "projected points": 18.677452577500006,
-            "actual points": 22.8
-        },
-        {
-            "week": 8,
-            "postion": 23,
-            "name": "Melvin Gordon",
-            "projected points": 12.151966313500001,
-            "actual points": 10.4
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Sony Michel",
-            "projected points": 13.462691949700003,
-            "actual points": 7.4
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Calvin Ridley",
-            "projected points": 8.853573457,
-            "actual points": 11.0
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Tevin Coleman",
-            "projected points": 14.263131921000001,
-            "actual points": 37.8
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Matt Ryan",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Courtland Sutton",
-            "projected points": 11.322622536,
-            "actual points": 8.7
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Kyler Murray",
-            "projected points": 24.181521091,
-            "actual points": 11.3
-        },
-        {
-            "week": 8,
-            "postion": 17,
-            "name": "Greg Zuerlein",
-            "projected points": 9.319479594,
-            "actual points": 6.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "T.J. Hockenson",
-            "projected points": 6.837854962,
-            "actual points": 2.6
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Phillip Dorsett II",
-            "projected points": 8.098666210500003,
-            "actual points": 5.8
-        },
-        {
-            "week": 8,
-            "postion": 16,
-            "name": "49ers D/ST",
-            "projected points": 6.405532064999999,
-            "actual points": 18.0
-        },
-        {
-            "week": 8,
-            "postion": 6,
-            "name": "Gerald Everett",
-            "projected points": 8.3839695825,
-            "actual points": 2.5
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Kareem Hunt",
-            "projected points": 0.0,
-            "actual points": 0.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Taylor Gabriel",
-            "projected points": 6.0668233919,
-            "actual points": 7.300000000000001
-        },
-        {
-            "week": 8,
-            "postion": 0,
-            "name": "Matthew Stafford",
-            "projected points": 26.2180311432,
-            "actual points": 32.8
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Odell Beckham Jr.",
-            "projected points": 10.941656495899998,
-            "actual points": 7.7
-        },
-        {
-            "week": 8,
-            "postion": 6,
-            "name": "Travis Kelce",
-            "projected points": 10.7398424125,
-            "actual points": 14.3
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "Josh Jacobs",
-            "projected points": 13.659012039999999,
-            "actual points": 9.100000000000001
-        },
-        {
-            "week": 8,
-            "postion": 4,
-            "name": "Stefon Diggs",
-            "projected points": 12.345848632399997,
-            "actual points": 16.8
-        },
-        {
-            "week": 8,
-            "postion": 2,
-            "name": "James White",
-            "projected points": 11.2091789665,
-            "actual points": 9.9
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Duke Johnson",
-            "projected points": 9.067535646,
-            "actual points": 11.4
-        },
-        {
-            "week": 8,
-            "postion": 23,
-            "name": "Austin Ekeler",
-            "projected points": 12.172092107500003,
-            "actual points": 9.2
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Larry Fitzgerald",
-            "projected points": 10.412873033000002,
-            "actual points": 1.8
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Marquez Valdes-Scantling",
-            "projected points": 8.5004948738,
-            "actual points": 0.9
-        },
-        {
-            "week": 8,
-            "postion": 0,
-            "name": "Philip Rivers",
-            "projected points": 19.686615435300002,
-            "actual points": 14.05
-        },
-        {
-            "week": 8,
-            "postion": 16,
-            "name": "Patriots D/ST",
-            "projected points": 8.831705805,
-            "actual points": 19.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Terry McLaurin",
-            "projected points": 10.624088351000001,
-            "actual points": 5.9
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Rex Burkhead",
-            "projected points": 9.166121155999999,
-            "actual points": 1.8
-        },
-        {
-            "week": 8,
-            "postion": 17,
-            "name": "Matt Prater",
-            "projected points": 9.060173196000001,
-            "actual points": 8.0
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Eric Ebron",
-            "projected points": 5.267255599,
-            "actual points": 4.1
-        },
-        {
-            "week": 8,
-            "postion": 20,
-            "name": "Chris Thompson",
-            "projected points": 0.0,
-            "actual points": 0.0
+            "Alvin Kamara": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Mike Evans": {
+                "week": 8,
+                "postion": 23,
+                "stats": {
+                    "projected points": 13.320196924500001,
+                    "actual points": 38.3
+                }
+            }
+        },
+        {
+            "Zach Ertz": {
+                "week": 8,
+                "postion": 6,
+                "stats": {
+                    "projected points": 10.089375674000001,
+                    "actual points": 3.0
+                }
+            }
+        },
+        {
+            "Tyler Lockett": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 12.179930207199998,
+                    "actual points": 14.0
+                }
+            }
+        },
+        {
+            "David Montgomery": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 10.651063586000005,
+                    "actual points": 23.7
+                }
+            }
+        },
+        {
+            "Miles Sanders": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 7.6622247085,
+                    "actual points": 21.3
+                }
+            }
+        },
+        {
+            "Robby Anderson": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 9.016718894699999,
+                    "actual points": 6.3
+                }
+            }
+        },
+        {
+            "Matt Bryant": {
+                "week": 8,
+                "postion": 17,
+                "stats": {
+                    "projected points": 5.947573145,
+                    "actual points": 5.0
+                }
+            }
+        },
+        {
+            "Josh Allen": {
+                "week": 8,
+                "postion": 0,
+                "stats": {
+                    "projected points": 25.043940995,
+                    "actual points": 20.950000000000003
+                }
+            }
+        },
+        {
+            "Alshon Jeffery": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 10.383796052000001,
+                    "actual points": 8.4
+                }
+            }
+        },
+        {
+            "Darwin Thompson": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.4
+                }
+            }
+        },
+        {
+            "Wayne Gallman": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 1.9077321416000002,
+                    "actual points": 2.5
+                }
+            }
+        },
+        {
+            "Diontae Johnson": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 7.8787298235,
+                    "actual points": 16.9
+                }
+            }
+        },
+        {
+            "Saints D/ST": {
+                "week": 8,
+                "postion": 16,
+                "stats": {
+                    "projected points": 7.454587014,
+                    "actual points": 9.0
+                }
+            }
+        },
+        {
+            "DeVante Parker": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 7.937483739,
+                    "actual points": 8.9
+                }
+            }
+        },
+        {
+            "Julio Jones": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 13.457924325299999,
+                    "actual points": 21.200000000000003
+                }
+            }
+        },
+        {
+            "JuJu Smith-Schuster": {
+                "week": 8,
+                "postion": 23,
+                "stats": {
+                    "projected points": 10.6826662925,
+                    "actual points": 19.8
+                }
+            }
+        },
+        {
+            "Derrick Henry": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 15.459806816,
+                    "actual points": 6.8
+                }
+            }
+        },
+        {
+            "Damien Williams": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 7.481283533999999,
+                    "actual points": 9.0
+                }
+            }
+        },
+        {
+            "DJ Moore": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 10.1478699351,
+                    "actual points": 6.300000000000001
+                }
+            }
+        },
+        {
+            "Phillip Lindsay": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 11.770841437,
+                    "actual points": 10.100000000000001
+                }
+            }
+        },
+        {
+            "Dede Westbrook": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 9.8654684643,
+                    "actual points": -1.0
+                }
+            }
+        },
+        {
+            "Royce Freeman": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 10.379309617000002,
+                    "actual points": 11.0
+                }
+            }
+        },
+        {
+            "Russell Wilson": {
+                "week": 8,
+                "postion": 0,
+                "stats": {
+                    "projected points": 28.932443736000003,
+                    "actual points": 21.5
+                }
+            }
+        },
+        {
+            "Mark Andrews": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": null
+                }
+            }
+        },
+        {
+            "John Brown": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 11.1724459987,
+                    "actual points": 7.9
+                }
+            }
+        },
+        {
+            "Devin Singletary": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 7.723320733,
+                    "actual points": 12.9
+                }
+            }
+        },
+        {
+            "Seahawks D/ST": {
+                "week": 8,
+                "postion": 16,
+                "stats": {
+                    "projected points": 5.293946770000001,
+                    "actual points": 2.0
+                }
+            }
+        },
+        {
+            "Josh Lambo": {
+                "week": 8,
+                "postion": 17,
+                "stats": {
+                    "projected points": 9.310338042,
+                    "actual points": 10.0
+                }
+            }
+        },
+        {
+            "Ty Johnson": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 11.823867981499998,
+                    "actual points": 4.3
+                }
+            }
+        },
+        {
+            "Kyle Rudolph": {
+                "week": 8,
+                "postion": 6,
+                "stats": {
+                    "projected points": 6.1348874045,
+                    "actual points": 3.2
+                }
+            }
+        },
+        {
+            "David Johnson": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Joe Mixon": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 11.768168942,
+                    "actual points": 15.700000000000001
+                }
+            }
+        },
+        {
+            "Adam Thielen": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Cooper Kupp": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 12.106650215799998,
+                    "actual points": 32.5
+                }
+            }
+        },
+        {
+            "Mark Ingram II": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": null
+                }
+            }
+        },
+        {
+            "Jarvis Landry": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 9.320280416400001,
+                    "actual points": 9.0
+                }
+            }
+        },
+        {
+            "Marvin Jones Jr.": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 11.4909049691,
+                    "actual points": 4.2
+                }
+            }
+        },
+        {
+            "Rashaad Penny": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 6.056334183000001,
+                    "actual points": 5.5
+                }
+            }
+        },
+        {
+            "Cam Newton": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Austin Hooper": {
+                "week": 8,
+                "postion": 6,
+                "stats": {
+                    "projected points": 10.2854346905,
+                    "actual points": 15.5
+                }
+            }
+        },
+        {
+            "Tom Brady": {
+                "week": 8,
+                "postion": 0,
+                "stats": {
+                    "projected points": 23.4193587012,
+                    "actual points": 24.950000000000003
+                }
+            }
+        },
+        {
+            "Justin Tucker": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": null
+                }
+            }
+        },
+        {
+            "Vikings D/ST": {
+                "week": 8,
+                "postion": 16,
+                "stats": {
+                    "projected points": 6.269474110999999,
+                    "actual points": 14.0
+                }
+            }
+        },
+        {
+            "Darren Waller": {
+                "week": 8,
+                "postion": 23,
+                "stats": {
+                    "projected points": 12.808347437,
+                    "actual points": 8.1
+                }
+            }
+        },
+        {
+            "Frank Gore": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 9.525398584,
+                    "actual points": 3.4000000000000004
+                }
+            }
+        },
+        {
+            "Robbie Gould": {
+                "week": 8,
+                "postion": 17,
+                "stats": {
+                    "projected points": 9.303634011,
+                    "actual points": 9.0
+                }
+            }
+        },
+        {
+            "DeAndre Hopkins": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 14.7585330545,
+                    "actual points": 17.4
+                }
+            }
+        },
+        {
+            "James Conner": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 17.653005823,
+                    "actual points": 23.5
+                }
+            }
+        },
+        {
+            "Chris Carson": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 18.257679554,
+                    "actual points": 15.0
+                }
+            }
+        },
+        {
+            "Robert Woods": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 9.859593393599999,
+                    "actual points": 5.2
+                }
+            }
+        },
+        {
+            "Tarik Cohen": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 9.644740579500002,
+                    "actual points": 6.1
+                }
+            }
+        },
+        {
+            "Christian Kirk": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 9.352956427999999,
+                    "actual points": 13.8
+                }
+            }
+        },
+        {
+            "Jordan Howard": {
+                "week": 8,
+                "postion": 23,
+                "stats": {
+                    "projected points": 9.972297559100003,
+                    "actual points": 17.6
+                }
+            }
+        },
+        {
+            "Tyrell Williams": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 11.660127355500002,
+                    "actual points": 16.6
+                }
+            }
+        },
+        {
+            "Kirk Cousins": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 21.143711509299997,
+                    "actual points": 14.45
+                }
+            }
+        },
+        {
+            "Ronald Jones II": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 7.2186511564,
+                    "actual points": 5.7
+                }
+            }
+        },
+        {
+            "Chargers D/ST": {
+                "week": 8,
+                "postion": 16,
+                "stats": {
+                    "projected points": 5.741050706,
+                    "actual points": 7.0
+                }
+            }
+        },
+        {
+            "Jake Elliott": {
+                "week": 8,
+                "postion": 17,
+                "stats": {
+                    "projected points": 5.294551856,
+                    "actual points": 3.0
+                }
+            }
+        },
+        {
+            "Teddy Bridgewater": {
+                "week": 8,
+                "postion": 0,
+                "stats": {
+                    "projected points": 0.19655104679,
+                    "actual points": -0.2
+                }
+            }
+        },
+        {
+            "Randall Cobb": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": null
+                }
+            }
+        },
+        {
+            "Jared Cook": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Dallas Goedert": {
+                "week": 8,
+                "postion": 6,
+                "stats": {
+                    "projected points": 6.541145236500001,
+                    "actual points": 9.7
+                }
+            }
+        },
+        {
+            "Todd Gurley II": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 16.442100981000003,
+                    "actual points": 10.4
+                }
+            }
+        },
+        {
+            "Dalvin Cook": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 22.039598166,
+                    "actual points": 25.6
+                }
+            }
+        },
+        {
+            "Julian Edelman": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 12.484608900500001,
+                    "actual points": 23.5
+                }
+            }
+        },
+        {
+            "Patrick Mahomes": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "A.J. Green": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "David Njoku": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Sterling Shepard": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Corey Davis": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 9.906731931499998,
+                    "actual points": 1.9
+                }
+            }
+        },
+        {
+            "Matt Breida": {
+                "week": 8,
+                "postion": 23,
+                "stats": {
+                    "projected points": 9.837101726000002,
+                    "actual points": 5.5
+                }
+            }
+        },
+        {
+            "DK Metcalf": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 9.037525325499999,
+                    "actual points": 14.8
+                }
+            }
+        },
+        {
+            "Bears D/ST": {
+                "week": 8,
+                "postion": 16,
+                "stats": {
+                    "projected points": 6.606791969999999,
+                    "actual points": 6.0
+                }
+            }
+        },
+        {
+            "Mitchell Trubisky": {
+                "week": 8,
+                "postion": 0,
+                "stats": {
+                    "projected points": 19.585245253000004,
+                    "actual points": 9.65
+                }
+            }
+        },
+        {
+            "Jalen Richard": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 3.6953908102000006,
+                    "actual points": 3.7
+                }
+            }
+        },
+        {
+            "Paul Richardson Jr.": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 5.5938166276,
+                    "actual points": 4.9
+                }
+            }
+        },
+        {
+            "Jimmy Graham": {
+                "week": 8,
+                "postion": 6,
+                "stats": {
+                    "projected points": 7.796259072500001,
+                    "actual points": 3.5
+                }
+            }
+        },
+        {
+            "Chris Boswell": {
+                "week": 8,
+                "postion": 17,
+                "stats": {
+                    "projected points": 7.558923104,
+                    "actual points": 10.0
+                }
+            }
+        },
+        {
+            "Le'Veon Bell": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 14.651418921,
+                    "actual points": 5.0
+                }
+            }
+        },
+        {
+            "Tyreek Hill": {
+                "week": 8,
+                "postion": 23,
+                "stats": {
+                    "projected points": 12.737748027599999,
+                    "actual points": 11.100000000000001
+                }
+            }
+        },
+        {
+            "T.Y. Hilton": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 11.485277739999999,
+                    "actual points": 6.4
+                }
+            }
+        },
+        {
+            "Marlon Mack": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 13.623970095499999,
+                    "actual points": 15.500000000000002
+                }
+            }
+        },
+        {
+            "Allen Robinson II": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 10.902661265499999,
+                    "actual points": 8.7
+                }
+            }
+        },
+        {
+            "Hunter Henry": {
+                "week": 8,
+                "postion": 6,
+                "stats": {
+                    "projected points": 10.922505245500002,
+                    "actual points": 6.7
+                }
+            }
+        },
+        {
+            "Carson Wentz": {
+                "week": 8,
+                "postion": 0,
+                "stats": {
+                    "projected points": 19.534007688,
+                    "actual points": 17.1
+                }
+            }
+        },
+        {
+            "Will Fuller V": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Nyheim Hines": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 5.2990256085,
+                    "actual points": 6.1000000000000005
+                }
+            }
+        },
+        {
+            "Kenny Stills": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 10.379797771499998,
+                    "actual points": 3.7
+                }
+            }
+        },
+        {
+            "DeSean Jackson": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Mohamed Sanu": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 8.695274369300002,
+                    "actual points": 3.3000000000000003
+                }
+            }
+        },
+        {
+            "Trey Burton": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 4.442351387,
+                    "actual points": 2.1
+                }
+            }
+        },
+        {
+            "Titans D/ST": {
+                "week": 8,
+                "postion": 16,
+                "stats": {
+                    "projected points": 7.679589566,
+                    "actual points": 10.0
+                }
+            }
+        },
+        {
+            "Nelson Agholor": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 6.892485956400001,
+                    "actual points": 3.4000000000000004
+                }
+            }
+        },
+        {
+            "Zane Gonzalez": {
+                "week": 8,
+                "postion": 17,
+                "stats": {
+                    "projected points": 6.897326648,
+                    "actual points": 11.0
+                }
+            }
+        },
+        {
+            "Ezekiel Elliott": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": null
+                }
+            }
+        },
+        {
+            "Amari Cooper": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": null
+                }
+            }
+        },
+        {
+            "Kerryon Johnson": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Kenny Golladay": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 13.226803043499999,
+                    "actual points": 26.3
+                }
+            }
+        },
+        {
+            "O.J. Howard": {
+                "week": 8,
+                "postion": 6,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Josh Gordon": {
+                "week": 8,
+                "postion": 23,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Aaron Rodgers": {
+                "week": 8,
+                "postion": 0,
+                "stats": {
+                    "projected points": 25.331236345,
+                    "actual points": 36.15
+                }
+            }
+        },
+        {
+            "Keke Coutee": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 8.032427727600002,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Latavius Murray": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 17.663963174499997,
+                    "actual points": 33.2
+                }
+            }
+        },
+        {
+            "Dak Prescott": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": null
+                }
+            }
+        },
+        {
+            "Delanie Walker": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Rams D/ST": {
+                "week": 8,
+                "postion": 16,
+                "stats": {
+                    "projected points": 8.509132531999999,
+                    "actual points": 5.0
+                }
+            }
+        },
+        {
+            "Ka'imi Fairbairn": {
+                "week": 8,
+                "postion": 17,
+                "stats": {
+                    "projected points": 6.810176679,
+                    "actual points": 10.0
+                }
+            }
+        },
+        {
+            "Chris Conley": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 7.2362101035,
+                    "actual points": 19.3
+                }
+            }
+        },
+        {
+            "Marquise Brown": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": null
+                }
+            }
+        },
+        {
+            "Jack Doyle": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 5.0271528845,
+                    "actual points": 7.1000000000000005
+                }
+            }
+        },
+        {
+            "Christian McCaffrey": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 20.5652557755,
+                    "actual points": 26.500000000000004
+                }
+            }
+        },
+        {
+            "Keenan Allen": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 8.832808175500002,
+                    "actual points": 8.8
+                }
+            }
+        },
+        {
+            "Devonta Freeman": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 13.540696644000002,
+                    "actual points": 12.200000000000001
+                }
+            }
+        },
+        {
+            "Evan Engram": {
+                "week": 8,
+                "postion": 6,
+                "stats": {
+                    "projected points": 11.038058688900001,
+                    "actual points": 12.0
+                }
+            }
+        },
+        {
+            "Sammy Watkins": {
+                "week": 8,
+                "postion": 23,
+                "stats": {
+                    "projected points": 7.534758554,
+                    "actual points": 7.0
+                }
+            }
+        },
+        {
+            "Baker Mayfield": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 16.0370593039,
+                    "actual points": 15.5
+                }
+            }
+        },
+        {
+            "Peyton Barber": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 7.078590904600001,
+                    "actual points": 3.3
+                }
+            }
+        },
+        {
+            "Michael Gallup": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": null
+                }
+            }
+        },
+        {
+            "Jared Goff": {
+                "week": 8,
+                "postion": 0,
+                "stats": {
+                    "projected points": 21.831651594600004,
+                    "actual points": 30.6
+                }
+            }
+        },
+        {
+            "Jaguars D/ST": {
+                "week": 8,
+                "postion": 16,
+                "stats": {
+                    "projected points": 8.023870708,
+                    "actual points": 18.0
+                }
+            }
+        },
+        {
+            "Wil Lutz": {
+                "week": 8,
+                "postion": 17,
+                "stats": {
+                    "projected points": 8.65438532,
+                    "actual points": 6.0
+                }
+            }
+        },
+        {
+            "Greg Olsen": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 7.470769943500001,
+                    "actual points": 2.3
+                }
+            }
+        },
+        {
+            "DJ Chark Jr.": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 10.8057052318,
+                    "actual points": 16.9
+                }
+            }
+        },
+        {
+            "Byron Pringle": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 1.3393188944,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Chase Edmonds": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 13.261523256999999,
+                    "actual points": 2.3
+                }
+            }
+        },
+        {
+            "Panthers D/ST": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 6.308186576000001,
+                    "actual points": 1.0
+                }
+            }
+        },
+        {
+            "Davante Adams": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Nick Chubb": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 15.0826093595,
+                    "actual points": 11.3
+                }
+            }
+        },
+        {
+            "Aaron Jones": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 15.7584731995,
+                    "actual points": 39.1
+                }
+            }
+        },
+        {
+            "Brandin Cooks": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 10.249754737,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Tyler Boyd": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 11.6651428646,
+                    "actual points": 9.8
+                }
+            }
+        },
+        {
+            "Kenyan Drake": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Curtis Samuel": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 9.273449496700003,
+                    "actual points": 6.6000000000000005
+                }
+            }
+        },
+        {
+            "LeSean McCoy": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 11.070418453499999,
+                    "actual points": 6.300000000000001
+                }
+            }
+        },
+        {
+            "Lamar Jackson": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": null
+                }
+            }
+        },
+        {
+            "Adrian Peterson": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 10.716605628,
+                    "actual points": 11.3
+                }
+            }
+        },
+        {
+            "Mason Crosby": {
+                "week": 8,
+                "postion": 17,
+                "stats": {
+                    "projected points": 6.500995666000001,
+                    "actual points": 7.0
+                }
+            }
+        },
+        {
+            "Carlos Hyde": {
+                "week": 8,
+                "postion": 23,
+                "stats": {
+                    "projected points": 12.455334288300003,
+                    "actual points": 7.300000000000001
+                }
+            }
+        },
+        {
+            "Jamaal Williams": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 9.625966208000001,
+                    "actual points": 17.099999999999998
+                }
+            }
+        },
+        {
+            "Bills D/ST": {
+                "week": 8,
+                "postion": 16,
+                "stats": {
+                    "projected points": 7.580093406,
+                    "actual points": 4.0
+                }
+            }
+        },
+        {
+            "Dawson Knox": {
+                "week": 8,
+                "postion": 6,
+                "stats": {
+                    "projected points": 5.356264073499999,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Jameis Winston": {
+                "week": 8,
+                "postion": 0,
+                "stats": {
+                    "projected points": 23.627949712000003,
+                    "actual points": 25.35
+                }
+            }
+        },
+        {
+            "Saquon Barkley": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 17.8420827095,
+                    "actual points": 24.299999999999997
+                }
+            }
+        },
+        {
+            "George Kittle": {
+                "week": 8,
+                "postion": 6,
+                "stats": {
+                    "projected points": 11.799213021700002,
+                    "actual points": 11.6
+                }
+            }
+        },
+        {
+            "Leonard Fournette": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 18.157805481500002,
+                    "actual points": 17.1
+                }
+            }
+        },
+        {
+            "Chris Godwin": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 14.898376768,
+                    "actual points": 8.3
+                }
+            }
+        },
+        {
+            "Mike Williams": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 9.5363344187,
+                    "actual points": 8.4
+                }
+            }
+        },
+        {
+            "Deshaun Watson": {
+                "week": 8,
+                "postion": 0,
+                "stats": {
+                    "projected points": 28.654370524000004,
+                    "actual points": 36.550000000000004
+                }
+            }
+        },
+        {
+            "Emmanuel Sanders": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 9.344852313999999,
+                    "actual points": 10.5
+                }
+            }
+        },
+        {
+            "Golden Tate": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 10.671568853800002,
+                    "actual points": 12.5
+                }
+            }
+        },
+        {
+            "Harrison Butker": {
+                "week": 8,
+                "postion": 17,
+                "stats": {
+                    "projected points": 5.912764847000001,
+                    "actual points": 5.0
+                }
+            }
+        },
+        {
+            "Mecole Hardman": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 2.5613570058999997,
+                    "actual points": 12.5
+                }
+            }
+        },
+        {
+            "Demarcus Robinson": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 3.5582928705000003,
+                    "actual points": 1.6
+                }
+            }
+        },
+        {
+            "Packers D/ST": {
+                "week": 8,
+                "postion": 16,
+                "stats": {
+                    "projected points": 6.037661304,
+                    "actual points": 4.0
+                }
+            }
+        },
+        {
+            "Jason Witten": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": null
+                }
+            }
+        },
+        {
+            "Auden Tate": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 8.253095549500001,
+                    "actual points": 9.0
+                }
+            }
+        },
+        {
+            "A.J. Brown": {
+                "week": 8,
+                "postion": 23,
+                "stats": {
+                    "projected points": 8.650287895000002,
+                    "actual points": 8.1
+                }
+            }
+        },
+        {
+            "Michael Thomas": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 18.677452577500006,
+                    "actual points": 22.8
+                }
+            }
+        },
+        {
+            "Melvin Gordon": {
+                "week": 8,
+                "postion": 23,
+                "stats": {
+                    "projected points": 12.151966313500001,
+                    "actual points": 10.4
+                }
+            }
+        },
+        {
+            "Sony Michel": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 13.462691949700003,
+                    "actual points": 7.4
+                }
+            }
+        },
+        {
+            "Calvin Ridley": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 8.853573457,
+                    "actual points": 11.0
+                }
+            }
+        },
+        {
+            "Tevin Coleman": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 14.263131921000001,
+                    "actual points": 37.8
+                }
+            }
+        },
+        {
+            "Matt Ryan": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Courtland Sutton": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 11.322622536,
+                    "actual points": 8.7
+                }
+            }
+        },
+        {
+            "Kyler Murray": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 24.181521091,
+                    "actual points": 11.3
+                }
+            }
+        },
+        {
+            "Greg Zuerlein": {
+                "week": 8,
+                "postion": 17,
+                "stats": {
+                    "projected points": 9.319479594,
+                    "actual points": 6.0
+                }
+            }
+        },
+        {
+            "T.J. Hockenson": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 6.837854962,
+                    "actual points": 2.6
+                }
+            }
+        },
+        {
+            "Phillip Dorsett II": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 8.098666210500003,
+                    "actual points": 5.8
+                }
+            }
+        },
+        {
+            "49ers D/ST": {
+                "week": 8,
+                "postion": 16,
+                "stats": {
+                    "projected points": 6.405532064999999,
+                    "actual points": 18.0
+                }
+            }
+        },
+        {
+            "Gerald Everett": {
+                "week": 8,
+                "postion": 6,
+                "stats": {
+                    "projected points": 8.3839695825,
+                    "actual points": 2.5
+                }
+            }
+        },
+        {
+            "Kareem Hunt": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
+        },
+        {
+            "Taylor Gabriel": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 6.0668233919,
+                    "actual points": 7.300000000000001
+                }
+            }
+        },
+        {
+            "Matthew Stafford": {
+                "week": 8,
+                "postion": 0,
+                "stats": {
+                    "projected points": 26.2180311432,
+                    "actual points": 32.8
+                }
+            }
+        },
+        {
+            "Odell Beckham Jr.": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 10.941656495899998,
+                    "actual points": 7.7
+                }
+            }
+        },
+        {
+            "Travis Kelce": {
+                "week": 8,
+                "postion": 6,
+                "stats": {
+                    "projected points": 10.7398424125,
+                    "actual points": 14.3
+                }
+            }
+        },
+        {
+            "Josh Jacobs": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 13.659012039999999,
+                    "actual points": 9.100000000000001
+                }
+            }
+        },
+        {
+            "Stefon Diggs": {
+                "week": 8,
+                "postion": 4,
+                "stats": {
+                    "projected points": 12.345848632399997,
+                    "actual points": 16.8
+                }
+            }
+        },
+        {
+            "James White": {
+                "week": 8,
+                "postion": 2,
+                "stats": {
+                    "projected points": 11.2091789665,
+                    "actual points": 9.9
+                }
+            }
+        },
+        {
+            "Duke Johnson": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 9.067535646,
+                    "actual points": 11.4
+                }
+            }
+        },
+        {
+            "Austin Ekeler": {
+                "week": 8,
+                "postion": 23,
+                "stats": {
+                    "projected points": 12.172092107500003,
+                    "actual points": 9.2
+                }
+            }
+        },
+        {
+            "Larry Fitzgerald": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 10.412873033000002,
+                    "actual points": 1.8
+                }
+            }
+        },
+        {
+            "Marquez Valdes-Scantling": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 8.5004948738,
+                    "actual points": 0.9
+                }
+            }
+        },
+        {
+            "Philip Rivers": {
+                "week": 8,
+                "postion": 0,
+                "stats": {
+                    "projected points": 19.686615435300002,
+                    "actual points": 14.05
+                }
+            }
+        },
+        {
+            "Patriots D/ST": {
+                "week": 8,
+                "postion": 16,
+                "stats": {
+                    "projected points": 8.831705805,
+                    "actual points": 19.0
+                }
+            }
+        },
+        {
+            "Terry McLaurin": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 10.624088351000001,
+                    "actual points": 5.9
+                }
+            }
+        },
+        {
+            "Rex Burkhead": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 9.166121155999999,
+                    "actual points": 1.8
+                }
+            }
+        },
+        {
+            "Matt Prater": {
+                "week": 8,
+                "postion": 17,
+                "stats": {
+                    "projected points": 9.060173196000001,
+                    "actual points": 8.0
+                }
+            }
+        },
+        {
+            "Eric Ebron": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 5.267255599,
+                    "actual points": 4.1
+                }
+            }
+        },
+        {
+            "Chris Thompson": {
+                "week": 8,
+                "postion": 20,
+                "stats": {
+                    "projected points": 0.0,
+                    "actual points": 0.0
+                }
+            }
         }
     ]
 }

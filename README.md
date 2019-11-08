@@ -16,3 +16,7 @@ The Project revolves around finding "sleeper" players and finding out trends on 
 - [NFL Players List](https://www.pro-football-reference.com)
 - [Top Sleepers of 2019 so far](https://www.espn.com/fantasy/football/story/_/page/imagined070119/fantasy-football-sleepers-busts-breakouts-2019)
 - [Top Sleepers of 2018](https://www.espn.com/fantasy/football/story/_/page/imagined/fantasy-football-sleepers-busts-breakouts-2018)
+
+## Notes
+- Going to use NFLStatAPI.py to find personal data about a player (weight, height, draft pos, age)
+- Going to use requestURL.py to get all players ESPN Fantasy Football stats (projected, actual, rank) 
