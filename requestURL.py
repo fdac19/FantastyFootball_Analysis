@@ -4,8 +4,8 @@ import json
 
 league_id = 472351
 season    = 2019
-espn = "AECjevBWtskaSx2%2FHnUUvkJg3YfRKR5RJx1aVopdVjuD9GVoxtRKJD7YIh64umim0kX%2BAEVrhqeLY2Udtg4cBQEGV5imcgcwaFiEN4iq%2FHq7dTfad6RhJ2VeVUvcIArFBf0ezHkhzJ28xvE1HyZNxZ7475GqHNDhpqhpXL0KFXkFuLm1yt8iJBBcfiNFLpKwdUQYuVbtNAvK0f1lqqg%2Fvkw0zjH%2B69w2Tq1By%2BEXUDTMmyJ8dFte%2FXD%2BkJsP6vqF1xKsPK7Ujq1whNrI9jnUTqL3"
-swid = "{C00B1776-4205-49F6-8B17-764205C9F6CB}"
+# espn = "AECjevBWtskaSx2%2FHnUUvkJg3YfRKR5RJx1aVopdVjuD9GVoxtRKJD7YIh64umim0kX%2BAEVrhqeLY2Udtg4cBQEGV5imcgcwaFiEN4iq%2FHq7dTfad6RhJ2VeVUvcIArFBf0ezHkhzJ28xvE1HyZNxZ7475GqHNDhpqhpXL0KFXkFuLm1yt8iJBBcfiNFLpKwdUQYuVbtNAvK0f1lqqg%2Fvkw0zjH%2B69w2Tq1By%2BEXUDTMmyJ8dFte%2FXD%2BkJsP6vqF1xKsPK7Ujq1whNrI9jnUTqL3"
+# swid = "{C00B1776-4205-49F6-8B17-764205C9F6CB}"
 
 slotcodes = {
     0 : 'QB', 2 : 'RB', 4 : 'WR',
@@ -28,8 +28,6 @@ for week in range(8, 9):
                      cookies={"SWID": swid, "espn_s2": espn})
             
     d = r.json()
-
-    print(json.dumps(r.json(),indent=4))
     
     for tm in d['teams']:
         tmid = tm['id']
@@ -66,10 +64,6 @@ for week in range(8, 9):
                     }
                 }
             })
-
-            # data.append([
-            #     week, tmid, 'name' : name, slot, pos, inj, proj, act
-            # ])
 
             with open('data.json', 'w') as f:
                 json.dump(newData, f, indent=4)
