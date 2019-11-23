@@ -12,14 +12,14 @@ slotcodes = {
     20: 'Bench', 21: 'IR', 23: 'Flex'
 }
 
+
 url = 'https://fantasy.espn.com/apis/v3/games/ffl/seasons/' + \
       str(season) + '/segments/0/leagues/' + str(league_id) + \
       '?view=mMatchup&view=mMatchupScore'
 
 newData = {}
-newData['players'] = []
 print('Week ', end='')
-for week in range(8, 9):
+for week in range(6, 9):
     print(week, end=' ')
 
     r = requests.get(url,
@@ -52,17 +52,21 @@ for week in range(8, 9):
                 elif stat['statSourceId'] == 1:
                     proj = stat['appliedTotal']
 
-
-            newData['players'].append({
-                name : {
-                    'week' : week,
-                    'postion' : slot,                
-                    'stats' : {
+            if name in newData:
+                newData[name]['stats'].append({
+                        'week' : week,
                         'projected points' : proj,
                         'actual points' : act
-                    }
+                    })
+            else:
+                newData[name] = {
+                        'postion' : slot,                
+                        'stats' : [{
+                            'week' : week,
+                            'projected points' : proj,
+                            'actual points' : act
+                        }]
                 }
-            })
 
             with open('data.json', 'w') as f:
                 json.dump(newData, f, indent=4)
