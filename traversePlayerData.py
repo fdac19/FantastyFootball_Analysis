@@ -3,6 +3,7 @@ import sys
 from enum import Enum
 import numpy as np
 import matplotlib.pyplot as plt
+import pandas as pd
 
 class position(Enum):
     QB = 0
@@ -34,11 +35,20 @@ if desiredPosition == 'WR':
 if desiredPosition == 'TE':
     slotSearch = 'TightEnd'
 
+weekArr = []
+projArr = []
+actArr = []
+
+
 for pos, player in data.items():
     sleeperListLength = len(player)
-
+    palette = plt.get_cmap('Set1')
+ 
+    #FOR PARTICULAR POSITION
     if(pos == slotSearch or slotSearch == 'ALL'):
+        #FOR PARTICULAR PLAYER
         for i in range(sleeperListLength):
+            projDF = pd.DataFrame([])
             if player[i] in fantasyPointData:
                 currPlayer = fantasyPointData.get(player[i])
                 print(player[i])
@@ -49,8 +59,30 @@ for pos, player in data.items():
                     playerActualPoints = currPlayer['stats'][x]['actual points']
                     weekProj = currPlayer['stats'][x]['week']
 
-                    print(playerProjectedPoints)
-                    print(weekProj)
-                    plt.plot(weekProj, playerProjectedPoints)
+                    weekArr.append(weekProj)
+                    projArr.append(playerProjectedPoints)
+                    actArr.append(playerActualPoints)
+                    #print(len(projDF))
 
+                    #print(playerProjectedPoints)
+                    print(weekProj)
+
+                plt.plot(weekArr, projArr, '-go', color=palette(i), label=player[i])
+                plt.plot(weekArr, actArr, '-go', color=palette(i), label=player[i])
+
+
+                weekArr.clear()
+                projArr.clear()
+                actArr.clear()
+
+
+#plt.plot(weekArr, projArr)
+#plt.plot(projDF)
+
+ax = plt.subplot(111)
+ax.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+ax.set_xticks([1,2,3,4,5,6,7,8,9,10])
+ax.set_xlabel('Week')
+ax.set_ylabel('Projected Points')
+ax.set_title(slotSearch + ' Player Projected Points')
 plt.show()
