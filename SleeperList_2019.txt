@@ -1,34 +1,34 @@
-QuarterBack: Kyler Murray, MurrKy00
-QuarterBack: Jameis Winston, WinsJa00 
-QuarterBack: Dak Prescott, PresDa01
-QuarterBack: Lamar Jackson, JackLa00
-QuarterBack: Derek Carr, CarrDe02
-RunningBack: Josh Jacobs, JacoJo01
-RunningBack: Alexander Mattison, MattAl01
-RunningBack: Miles Sanders, SandMi01
-RunningBack: Devonta Freeman, FreeDe00
-RunningBack: Derrius Guice, GuicDe00
-RunningBack: Jaylen Samuels, SamuJa00
-RunningBack: Darrel Henderson, HendDa00
-RunningBack: Tevin Coleman, ColeTe01
-RunningBack: Duke Johnson Jr., JohnDu00
-RunningBack: Derrick Henry, HenrDe00
-RunningBack: Jordan Howard, HowaJo00
-WideReceiver: Christian Kirk, KirkCh01
-WideReceiver: Dede Westbrook, WestDe00
-WideReceiver: Anthony Miller, MillAn02
-WideReceiver: DJ Moore, MoorD.00
-WideReceiver: James Washington, WashJa00
-WideReceiver: Dante Pettis, PettDa00
-WideReceiver: DeSean Jackson, JackDe00
-WideReceiver: Robby Anderson, AndeRo04
-WideReceiver: Kenny Golladay, GollKe00
-TightEnd: T.J. Hockenson, HockTJ00 
-TightEnd: Mark Andrews, AndrMa00
-TightEnd: Austin Hooper, HoopAu00
-TightEnd: Delanie Walker, WalkHu00
-TightEnd: Jared Cook, CookJa02
-TightEnd: Vance MCdonald, McDoVa00
-TightEnd: Jordan Reed, ReedJo02
-TightEnd: O.J. Howard, HowaO.00
-TightEnd: Dallas Goedert, GoedDa00
+QuarterBack: Kyler Murray, MurrKy00, 4.30
+QuarterBack: Jameis Winston, WinsJa00, 4.97
+QuarterBack: Dak Prescott, PresDa01, 4.79
+QuarterBack: Lamar Jackson, JackLa00, 4.34
+QuarterBack: Derek Carr, CarrDe02, 4.69
+RunningBack: Josh Jacobs, JacoJo01, 4.69
+RunningBack: Alexander Mattison, MattAl01, 4.67
+RunningBack: Miles Sanders, SandMi01, 4.49
+RunningBack: Devonta Freeman, FreeDe00, 4.58
+RunningBack: Derrius Guice, GuicDe00, 4.49
+RunningBack: Jaylen Samuels, SamuJa00, 4.54
+RunningBack: Darrel Henderson, HendDa00, 4.49
+RunningBack: Tevin Coleman, ColeTe01, 4.44
+RunningBack: Duke Johnson Jr., JohnDu00, 4.54
+RunningBack: Derrick Henry, HenrDe00, 4.54
+RunningBack: Jordan Howard, HowaJo00, 4.57
+WideReceiver: Christian Kirk, KirkCh01, 4.47
+WideReceiver: Dede Westbrook, WestDe00, 4.44
+WideReceiver: Anthony Miller, MillAn02, 4.55
+WideReceiver: DJ Moore, MoorD.00, 4.42
+WideReceiver: James Washington, WashJa00, 4.54
+WideReceiver: Dante Pettis, PettDa00, 4.53
+WideReceiver: DeSean Jackson, JackDe00, 4.35
+WideReceiver: Robby Anderson, AndeRo04, 4.41
+WideReceiver: Kenny Golladay, GollKe00, 4.50
+TightEnd: T.J. Hockenson, HockTJ00, 4.70
+TightEnd: Mark Andrews, AndrMa00, 4.67
+TightEnd: Austin Hooper, HoopAu00, 4.72
+TightEnd: Delanie Walker, WalkHu00, 4.58
+TightEnd: Jared Cook, CookJa02, 4.50
+TightEnd: Vance MCdonald, McDoVa00, 4.69
+TightEnd: Jordan Reed, ReedJo02, 4.72
+TightEnd: O.J. Howard, HowaO.00, 4.51
+TightEnd: Dallas Goedert, GoedDa00, 4.70
