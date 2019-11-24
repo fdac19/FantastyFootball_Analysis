@@ -1,36 +1,36 @@
-QuarterBack: Eli Manning
-QuarterBack: Alex Smith
-QuarterBack: Patrick Mahomes
-QuarterBack: Andrew Luck
-QuarterBack: Tyrod Taylor
-QuarterBack: Mitchell Trubisky
-QuarterBack: Marcus Mariota
-QuarterBack: Matt Ryan
-RunningBack: Jerick McKinnon
-RunningBack: Kalen Ballage 
-RunningBack: Ronald Jones
-RunningBack: Derrick Henry
-RunningBack: Jordan Wilkins
-RunningBack: Nyheim Hines
-RunningBack: Duke Johnson
-RunningBack: Royce Freeman
-RunningBack: Rex Burkhead
-RunningBack: Rashaad Penny
-RunningBack: Chris Carson
-WideReceiver: Devin Funchess
-WideReceiver: Mike Williams
-WideReceiver: Corey Davis
-WideReceiver: Will Fuller V
-WideReceiver: Paul Richardson
-WideReceiver: Brandin Cooks
-WideReceiver: Sterling Shepard
-WideReceiver: Michael Crabtree
-WideReceiver: Josh Gordon
-TightEnd: David Njoku
-TightEnd: Vance McDonald
-TightEnd: Trey Burton
-TightEnd: O.J. Howard
-TightEnd: Mike Gesicki
-TightEnd: George Kittle
-TightEnd: Jimmy Graham
-TightEnd: Tyler Eifert
+QuarterBack: Eli Manning, MannEl00
+QuarterBack: Alex Smith, SmitAl03
+QuarterBack: Patrick Mahomes, MahoPa00
+QuarterBack: Andrew Luck, LuckAn00
+QuarterBack: Tyrod Taylor, TaylTy00
+QuarterBack: Mitchell Trubisky, TrubMi00
+QuarterBack: Marcus Mariota, MariMa01
+QuarterBack: Matt Ryan, RyanMa00
+RunningBack: Jerick McKinnon, McKiJe00
+RunningBack: Kalen Ballage, BallKa00
+RunningBack: Ronald Jones, JoneRo01
+RunningBack: Derrick Henry, HenrDe00
+RunningBack: Jordan Wilkins, WilkJo01
+RunningBack: Nyheim Hines, HineNy00
+RunningBack: Duke Johnson, JohnDu00
+RunningBack: Royce Freeman, FreeRo00
+RunningBack: Rex Burkhead, BurkRe00
+RunningBack: Rashaad Penny, PennRa00
+RunningBack: Chris Carson, CarsCh00
+WideReceiver: Devin Funchess, FuncDe00 
+WideReceiver: Mike Williams, WillMi07
+WideReceiver: Corey Davis, DaviCo03
+WideReceiver: Will Fuller V, FullWi01
+WideReceiver: Paul Richardson, RichPa01
+WideReceiver: Brandin Cooks, CookBr00
+WideReceiver: Sterling Shepard, ShepSt00
+WideReceiver: Michael Crabtree, CrabMi00
+WideReceiver: Josh Gordon, GordJo02
+TightEnd: David Njoku, NjokDa00
+TightEnd: Vance McDonald, McDoVa00
+TightEnd: Trey Burton, BurtTr01
+TightEnd: O.J. Howard, HowaO.00
+TightEnd: Mike Gesicki, GesiMi00
+TightEnd: George Kittle, KittGe00
+TightEnd: Jimmy Graham, GrahJi00
+TightEnd: Tyler Eifert, EifeTy00

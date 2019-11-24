@@ -13,3 +13,6 @@
 This project revolves around finding players who were projected to not do well in the season, but ending up doing better than expected; these players are referred to as "sleepers." 
 The Project revolves around finding "sleeper" players and finding out trends on why they did better than projected.
 
+## Notes
+- Going to use NFLStatAPI.py to find personal data about a player (weight, height, draft pos, age)
+- Going to use requestURL.py to get all players ESPN Fantasy Football stats (projected, actual, rank) 

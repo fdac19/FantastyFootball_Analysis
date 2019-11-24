@@ -1,0 +1,46 @@
+{
+    "QuarterBack": [
+        "Eli Manning",
+        "Alex Smith",
+        "Patrick Mahomes",
+        "Andrew Luck",
+        "Tyrod Taylor",
+        "Mitchell Trubisky",
+        "Marcus Mariota",
+        "Matt Ryan"
+    ],
+    "RunningBack": [
+        "Jerick McKinnon",
+        "Kalen Ballage",
+        "Ronald Jones",
+        "Derrick Henry",
+        "Jordan Wilkins",
+        "Nyheim Hines",
+        "Duke Johnson",
+        "Royce Freeman",
+        "Rex Burkhead",
+        "Rashaad Penny",
+        "Chris Carson"
+    ],
+    "WideReceiver": [
+        "Devin Funchess",
+        "Mike Williams",
+        "Corey Davis",
+        "Will Fuller V",
+        "Paul Richardson",
+        "Brandin Cooks",
+        "Sterling Shepard",
+        "Michael Crabtree",
+        "Josh Gordon"
+    ],
+    "TightEnd": [
+        "David Njoku",
+        "Vance McDonald",
+        "Trey Burton",
+        "O.J. Howard",
+        "Mike Gesicki",
+        "George Kittle",
+        "Jimmy Graham",
+        "Tyler Eifert"
+    ]
+}
