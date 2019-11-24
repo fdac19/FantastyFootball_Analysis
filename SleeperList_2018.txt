@@ -1,36 +1,35 @@
-QuarterBack: Eli Manning, MannEl00
-QuarterBack: Alex Smith, SmitAl03
-QuarterBack: Patrick Mahomes, MahoPa00
-QuarterBack: Andrew Luck, LuckAn00
-QuarterBack: Tyrod Taylor, TaylTy00
-QuarterBack: Mitchell Trubisky, TrubMi00
-QuarterBack: Marcus Mariota, MariMa01
-QuarterBack: Matt Ryan, RyanMa00
-RunningBack: Jerick McKinnon, McKiJe00
-RunningBack: Kalen Ballage, BallKa00
-RunningBack: Ronald Jones, JoneRo01
-RunningBack: Derrick Henry, HenrDe00
-RunningBack: Jordan Wilkins, WilkJo01
-RunningBack: Nyheim Hines, HineNy00
-RunningBack: Duke Johnson, JohnDu00
-RunningBack: Royce Freeman, FreeRo00
-RunningBack: Rex Burkhead, BurkRe00
-RunningBack: Rashaad Penny, PennRa00
-RunningBack: Chris Carson, CarsCh00
-WideReceiver: Devin Funchess, FuncDe00 
-WideReceiver: Mike Williams, WillMi07
-WideReceiver: Corey Davis, DaviCo03
-WideReceiver: Will Fuller V, FullWi01
-WideReceiver: Paul Richardson, RichPa01
-WideReceiver: Brandin Cooks, CookBr00
-WideReceiver: Sterling Shepard, ShepSt00
-WideReceiver: Michael Crabtree, CrabMi00
-WideReceiver: Josh Gordon, GordJo02
-TightEnd: David Njoku, NjokDa00
-TightEnd: Vance McDonald, McDoVa00
-TightEnd: Trey Burton, BurtTr01
-TightEnd: O.J. Howard, HowaO.00
-TightEnd: Mike Gesicki, GesiMi00
-TightEnd: George Kittle, KittGe00
-TightEnd: Jimmy Graham, GrahJi00
-TightEnd: Tyler Eifert, EifeTy00
+QuarterBack: Eli Manning, MannEl00, 4.95
+QuarterBack: Alex Smith, SmitAl03, 4.71
+QuarterBack: Patrick Mahomes, MahoPa00, 4.80
+QuarterBack: Andrew Luck, LuckAn00, 4.67
+QuarterBack: Tyrod Taylor, TaylTy00, 4.47
+QuarterBack: Mitchell Trubisky, TrubMi00, 4.67
+QuarterBack: Marcus Mariota, MariMa01, 4.52
+QuarterBack: Matt Ryan, RyanMa00, 4.89
+RunningBack: Jerick McKinnon, McKiJe00, 4.41
+RunningBack: Kalen Ballage, BallKa00, 4.46
+RunningBack: Ronald Jones, JoneRo01, 4.53
+RunningBack: Derrick Henry, HenrDe00, 4.54
+RunningBack: Jordan Wilkins, WilkJo01, 4.58
+RunningBack: Nyheim Hines, HineNy00, 4.38
+RunningBack: Duke Johnson, JohnDu00, 4.54
+RunningBack: Royce Freeman, FreeRo00, 4.54
+RunningBack: Rex Burkhead, BurkRe00, 4.73
+RunningBack: Rashaad Penny, PennRa00, 4.46
+RunningBack: Chris Carson, CarsCh00, 4.58
+WideReceiver: Devin Funchess, FuncDe00, 4.70
+WideReceiver: Corey Davis, DaviCo03, 4.53
+WideReceiver: Will Fuller V, FullWi01, 4.32
+WideReceiver: Paul Richardson, RichPa01, 4.40
+WideReceiver: Brandin Cooks, CookBr00, 4.33
+WideReceiver: Sterling Shepard, ShepSt00, 4.48
+WideReceiver: Michael Crabtree, CrabMi00, 4.59
+WideReceiver: Josh Gordon, GordJo02, 4.57
+TightEnd: David Njoku, NjokDa00, 4.64
+TightEnd: Vance McDonald, McDoVa00, 4.69
+TightEnd: Trey Burton, BurtTr01, 4.62
+TightEnd: O.J. Howard, HowaO.00, 4.51
+TightEnd: Mike Gesicki, GesiMi00, 4.54
+TightEnd: George Kittle, KittGe00, 4.52
+TightEnd: Jimmy Graham, GrahJi00, 4.56
+TightEnd: Tyler Eifert, EifeTy00, 4.68
