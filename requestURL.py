@@ -12,6 +12,8 @@ slotcodes = {
     20: 'Bench', 21: 'IR', 23: 'Flex'
 }
 
+swid = "{C00B1776-4205-49F6-8B17-764205C9F6CB}"
+espn = "AEA9UNNKGrEtSmioOr2m7LaT%2BoWEAEGojR21xEfCpwC9b5XJDJZCjEPA8AIkT28tM%2BDzjp4Tj5%2FOmQrOK%2B%2FvqQmpIBKMg88ZjQKTVRzRPicGr43lbp0festA9wx9it5f3n6RRGF5%2FaIWOzS3UpZNg%2FEC2Tl6%2FfIZJWyM0UAxQ9I44Mu4eOpi78KEcBtVG7P9%2Bly9gWrR5YKxoB%2FR1xnCc3jYJiT9U2KCz9xmz6gNit02WaMzX5lsr0Ej9xVoCPBoxRyN%2BZ96F%2B1WKieUBd2L8ar2B0BxDb6cl%2BDCJyKsp5VWWw%3D%3D"
 
 url = 'https://fantasy.espn.com/apis/v3/games/ffl/seasons/' + \
       str(season) + '/segments/0/leagues/' + str(league_id) + \
@@ -60,7 +62,7 @@ for week in range(6, 9):
                     })
             else:
                 newData[name] = {
-                        'postion' : slot,                
+                        'position' : slot,                
                         'stats' : [{
                             'week' : week,
                             'projected points' : proj,

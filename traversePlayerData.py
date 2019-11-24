@@ -36,7 +36,6 @@ if desiredPosition == 'TE':
 
 for pos, player in data.items():
     sleeperListLength = len(player)
-    print(pos)
 
     if(pos == slotSearch or slotSearch == 'ALL'):
         for i in range(sleeperListLength):
@@ -50,7 +49,8 @@ for pos, player in data.items():
                     playerActualPoints = currPlayer['stats'][x]['actual points']
                     weekProj = currPlayer['stats'][x]['week']
 
+                    print(playerProjectedPoints)
+                    print(weekProj)
                     plt.plot(weekProj, playerProjectedPoints)
-
 
 plt.show()

@@ -16,7 +16,7 @@ pp = pprint.PrettyPrinter(compact=True)
 for file in sys.argv[1:]: 
     print("file being processed: %s " % file) 
     with open(file,'r') as sleepers:
-        if file == "SleeperList_2019.txt":
+        if file == "SleeperList_2018.txt":
             for line in sleepers:
                 key,value,player_id = re.split(': |, ', line)
                 sleepers_2019[key].append(value)
@@ -26,14 +26,14 @@ for file in sys.argv[1:]:
                    print("player: %-20s Height: %-10s Weight: %-3dlbs" %(value, player.height, player.weight)) 
 
             #pp.pprint(sleepers_2019)
-            with open('sleepers2019.json', 'w') as f:
+            with open('sleepers2018.json', 'w') as f:
                 json.dump(sleepers_2019, f, indent=4)
 
-        elif file == "SleeperList_2018.txt":
+        elif file == "SleeperList_2019.txt":
             for line in sleepers:
                 key,value,player_id = re.split(': |, ', line)
                 sleepers_2018[key].append(value)
             pp.pprint(sleepers_2018)
-            with open('sleepers2018.json', 'w') as f:
+            with open('sleepers2019.json', 'w') as f:
                 json.dump(sleepers_2018, f, indent=4)
 

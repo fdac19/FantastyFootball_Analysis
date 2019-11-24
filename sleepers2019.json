@@ -1,0 +1,44 @@
+{
+    "QuarterBack": [
+        "Kyler Murray",
+        "Jameis Winston",
+        "Dak Prescott",
+        "Lamar Jackson",
+        "Derek Carr"
+    ],
+    "RunningBack": [
+        "Josh Jacobs",
+        "Alexander Mattison",
+        "Miles Sanders",
+        "Devonta Freeman",
+        "Derrius Guice",
+        "Jaylen Samuels",
+        "Darrel Henderson",
+        "Tevin Coleman",
+        "Duke Johnson Jr.",
+        "Derrick Henry",
+        "Jordan Howard"
+    ],
+    "WideReceiver": [
+        "Christian Kirk",
+        "Dede Westbrook",
+        "Anthony Miller",
+        "DJ Moore",
+        "James Washington",
+        "Dante Pettis",
+        "DeSean Jackson",
+        "Robby Anderson",
+        "Kenny Golladay"
+    ],
+    "TightEnd": [
+        "T.J. Hockenson",
+        "Mark Andrews",
+        "Austin Hooper",
+        "Delanie Walker",
+        "Jared Cook",
+        "Vance MCdonald",
+        "Jordan Reed",
+        "O.J. Howard",
+        "Dallas Goedert"
+    ]
+}
