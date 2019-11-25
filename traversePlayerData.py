@@ -39,6 +39,9 @@ weekArr = []
 projArr = []
 actArr = []
 
+fig, (ax1,ax2) = plt.subplots(nrows=2, ncols=1, figsize= (10,10))
+ax1 = plt.subplot(2,1,1)
+ax2 = plt.subplot(2,1,2)
 
 for pos, player in data.items():
     sleeperListLength = len(player)
@@ -67,8 +70,9 @@ for pos, player in data.items():
                     #print(playerProjectedPoints)
                     print(weekProj)
 
-                plt.plot(weekArr, projArr, '-go', color=palette(i), label=player[i])
-                plt.plot(weekArr, actArr, '-go', color=palette(i), label=player[i])
+               
+                ax1.plot(weekArr, projArr, '-go', color=palette(i), label=player[i])
+                ax2.plot(weekArr, actArr, '-go', color=palette(i), label=player[i])
 
 
                 weekArr.clear()
@@ -79,10 +83,29 @@ for pos, player in data.items():
 #plt.plot(weekArr, projArr)
 #plt.plot(projDF)
 
-ax = plt.subplot(111)
-ax.legend(loc='center left', bbox_to_anchor=(1, 0.5))
-ax.set_xticks([1,2,3,4,5,6,7,8,9,10])
-ax.set_xlabel('Week')
-ax.set_ylabel('Projected Points')
-ax.set_title(slotSearch + ' Player Projected Points')
+
+#ax1 = plt.subplot(2,1,1)
+ax1.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+ax1.set_xticks([1,2,3,4,5,6,7,8,9,10])
+ax1.set_xlabel('Week')
+ax1.set_ylabel('Projected Points')
+ax1.set_title(slotSearch + ' Player Projected Points')
+
+
+#ax2 = plt.subplot(2,1,2)
+ax2.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+ax2.set_xticks([1,2,3,4,5,6,7,8,9,10])
+ax2.set_xlabel('Week')
+ax2.set_ylabel('Actual Points')
+ax2.set_title(slotSearch + ' Player Actual Points')
+
+plt.tight_layout(pad=7)
+#ax = plt.subplot(111)
+#ax.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+#ax.set_xticks([1,2,3,4,5,6,7,8,9,10])
+#ax.set_xlabel('Week')
+#ax.set_ylabel('Projected Points')
+#ax.set_title(slotSearch + ' Player Projected Points')
+#fig.tight_layout()
+
 plt.show()
