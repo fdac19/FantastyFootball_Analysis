@@ -56,6 +56,8 @@ with open(file,'r') as sleepers:
     if file == "SleeperList_2018.txt":
         for line in sleepers:
             key,value,player_id, forty = re.split(': |, ', line)
+
+            #print(forty.strip('\r\n'))
             sleepers_2019[key].append(value)
                 
             player = Player(str(player_id).rstrip()) # strip the trailing newline after getting player_id from txt file
@@ -65,19 +67,21 @@ with open(file,'r') as sleepers:
                     print(forty)
 
                     playerArr.append(value)
-                    fortyArr.append(forty)
+                    fortyArr.append(forty.strip('\r\n'))
 
+fortyArr = list(map(float,fortyArr))
+print(fortyArr)
 
-# plt.barh(playerArr, fortyArr, align='center', alpha=0.5)
-# plt.xlabel('Time (sec)')
-# plt.title('Player 40 Yard Dash Times')
+plt.barh(playerArr, fortyArr, align='center', alpha=0.5)
+plt.xlabel('Time (sec)')
+#plt.title('Player 40 Yard Dash Times')
 
 # plt.show()
-plt.rcdefaults()
-fig, ax = plt.subplots()
+#plt.rcdefaults()
+#fig, ax = plt.subplots()
 
 # Example data
-people = ('Tom', 'Dick', 'Harry', 'Slim', 'Jim')
+"""people = ('Tom', 'Dick', 'Harry', 'Slim', 'Jim')
 y_pos = np.arange(len(people))
 performance = 3 + 10 * np.random.rand(len(people))
 error = np.random.rand(len(people))
@@ -87,6 +91,6 @@ ax.set_yticks(y_pos)
 ax.set_yticklabels(people)
 ax.invert_yaxis()  # labels read top-to-bottom
 ax.set_xlabel('Performance')
-ax.set_title('How fast do you want to go today?')
+ax.set_title('How fast do you want to go today?')"""
 
 plt.show()
